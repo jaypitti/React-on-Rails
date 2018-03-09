@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Location: one
+  address: MyString
+
+two:
+  Location: two
+  address: MyString
